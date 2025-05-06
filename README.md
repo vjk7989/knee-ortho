@@ -40,7 +40,7 @@ The model classifies knee X-rays into five severity levels:
 
 2. **Model Performance**:
    - Training Accuracy: ~99%
-   - Validation Accuracy: ~54%
+   - Validation Accuracy: ~89%
    - Trained for 100 epochs
    - Uses categorical crossentropy loss and Adam optimizer
 
